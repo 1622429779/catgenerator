@@ -12,6 +12,7 @@ This project is about a cat generator that uses python in maya, which gives the 
 *7. choose all pictures in \image folder BY NAME: ear-head-leg-tail-icons
 
 ''''''''''''''''''''''''''''''''''
+
 do not save the scene after modifying!!! Will go wrong if saved attributes
 
 ''''''''''''''''''''''''''''''''''
